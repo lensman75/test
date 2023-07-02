@@ -1,0 +1,1 @@
+sudo /usr/sbin/supervisorctl start lod_celery:lod-celery
